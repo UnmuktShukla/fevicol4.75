@@ -1,0 +1,52 @@
+body{
+  background-color: #101010;
+}
+#reviews{
+
+
+  background-color: #101010;
+
+
+
+}
+
+.review{
+  text-align: center;
+  font-size: 7rem;
+  font-family: 'Kanit',sans-serif;
+  color: white;
+  padding-top: 50px;
+}
+#carouselExample{
+  text-align: center;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+
+
+}
+.carousel-item{
+  padding: 10% 17%;
+}
+
+.carousel-item h2{
+  font-size: 2.4rem;
+}
+.carousel-item h1{
+  font-size: 1.5rem;
+}
+.review-img{
+  border-radius: 100%;
+  width: 10%;
+  margin-top: 20px;
+}
+.fam1{
+  width: 40%;
+}
+.fam2{
+  width: 50%;
+}
+.mumpap{
+  border-radius: 100%;
+  width: 10%;
+  margin-top: 20px;
+}
